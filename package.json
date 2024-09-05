@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "license": "Apache-2.0",
-  "author": "Prismic <contact@prismic.io> (https://prismic.io)",
+  "author": "Prismic <contact@protool.co.in> (https://protool.co.in)",
   "scripts": {
     "dev": "concurrently \"npm:next:dev\" \"npm:slicemachine\" --names \"next,slicemachine\" --prefix-colors blue,magenta",
     "next:dev": "next dev",

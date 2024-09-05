@@ -19,7 +19,7 @@ export default function CircleText({
       className={clsx("circle-text", className)}
       aria-labelledby="circle-text"
     >
-      <title id="circle-text">Love your gut. Love your life.</title>
+      <title id="circle-text">Love to build. Powered by Suhaib.</title>
       <path
         fill={backgroundColor}
         d="M122 61.5a61 61 0 11-122 0 61 61 0 01122 0z"
